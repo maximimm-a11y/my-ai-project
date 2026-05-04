@@ -1,1 +1,1 @@
-# my-ai-project
+# my-ai-project Second commit for my assignment
